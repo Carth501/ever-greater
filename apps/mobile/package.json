@@ -1,0 +1,10 @@
+{
+	"name": "@ever-greater/mobile",
+	"version": "0.1.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"build": "echo mobile build scaffolded",
+		"typecheck": "echo mobile typecheck scaffolded"
+	}
+}
