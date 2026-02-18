@@ -1,6 +1,7 @@
 {
 	"name": "@ever-greater/mobile",
 	"version": "0.1.0",
+	"main": "AppEntry.js",
 	"private": true,
 	"scripts": {
 		"start": "expo start",
@@ -12,11 +13,12 @@
 	},
 	"dependencies": {
 		"expo": "^54.0.0",
-		"react": "^19.0.0",
-		"react-native": "^0.79.0"
+		"react": "^19.1.0",
+		"react-native": "^0.83.0"
 	},
 	"devDependencies": {
-		"@types/react": "^19.0.10",
+		"@types/react": "^19.1.0",
+		"babel-preset-expo": "~54.0.0",
 		"typescript": "^5.7.3"
 	}
 }
